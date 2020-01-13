@@ -21,7 +21,7 @@ platform:
   order:
     code:
       profile: p_123456
-      suffix: BBBFGG
+      suffix: BBBFGGGGG
 project:
   branch: master
   env: dev
