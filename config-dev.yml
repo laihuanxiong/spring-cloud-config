@@ -25,3 +25,6 @@ platform:
 project:
   branch: master
   env: dev
+feign:
+  hystrix:
+    enabled: true
